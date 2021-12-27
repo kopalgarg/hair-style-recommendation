@@ -29,3 +29,6 @@ A. Facial measurements [face width and height, nose width and height, etc.]
 B. Face shape [oval, round, square, heart, oblong]
 C. Hair texture [curly, straight, wavy]
 Now, using these features, I created a recommender system to recommend an ideal hairstyle.
+
+
+Medium Article Link: https://medium.com/@kopalgarg/using-ai-to-pick-the-most-flattering-hairstyle-based-on-your-face-shape-735642791625
