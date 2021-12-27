@@ -1,5 +1,5 @@
 # hair-style-recommendation
-Using AI to recommend a hair style
+Using AI to recommend a hair style (in progress)
 
 Step 1: 
 ![](/assets/fig1.png)
